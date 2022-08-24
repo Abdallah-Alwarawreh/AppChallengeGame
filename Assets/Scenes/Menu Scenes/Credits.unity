@@ -565,7 +565,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Programming / Designing
+  m_text: Programming & Designing
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4b5b976570c12b94d8d82ce116fd3027, type: 2}
   m_sharedMaterial: {fileID: -5703428018747636634, guid: 4b5b976570c12b94d8d82ce116fd3027,
@@ -1588,7 +1588,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Story Writing \ Game Testing
+  m_text: Story Writing & Game Testing
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4b5b976570c12b94d8d82ce116fd3027, type: 2}
   m_sharedMaterial: {fileID: -5703428018747636634, guid: 4b5b976570c12b94d8d82ce116fd3027,
