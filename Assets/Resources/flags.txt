@@ -1,0 +1,253 @@
+Andorra|ad.png
+United Arab Emirates|ae.png
+Afghanistan|af.png
+Antigua and Barbuda|ag.png
+Anguilla|ai.png
+Albania|al.png
+Armenia|am.png
+Angola|ao.png
+Antarctica|aq.png
+Argentina|ar.png
+American Samoa|as.png
+Austria|at.png
+Australia|au.png
+Aruba|aw.png
+Aland Islands|ax.png
+Azerbaijan|az.png
+Bosnia and Herzegovina|ba.png
+Barbados|bb.png
+Bangladesh|bd.png
+Belgium|be.png
+Burkina Faso|bf.png
+Bulgaria|bg.png
+Bahrain|bh.png
+Burundi|bi.png
+Benin|bj.png
+Saint-Barthélemy|bl.png
+Bermuda|bm.png
+Brunei Darussalam|bn.png
+Bolivia|bo.png
+Brazil|br.png
+Bahamas|bs.png
+Bhutan|bt.png
+Bouvet Island|bv.png
+Botswana|bw.png
+Belarus|by.png
+Belize|bz.png
+Canada|ca.png
+Cocos (Keeling) Islands|cc.png
+Congo, (Kinshasa)|cd.png
+Central African Republic|cf.png
+Congo (Brazzaville)|cg.png
+Switzerland|ch.png
+Côte d'Ivoire|ci.png
+Cook Islands|ck.png
+Chile|cl.png
+Cameroon|cm.png
+China|cn.png
+Colombia|co.png
+Costa Rica|cr.png
+Cuba|cu.png
+Cape Verde|cv.png
+Curaçao|cw.png
+Christmas Island|cx.png
+Cyprus|cy.png
+Czech Republic|cz.png
+Germany|de.png
+Djibouti|dj.png
+Denmark|dk.png
+Dominica|dm.png
+Dominican Republic|do.png
+Algeria|dz.png
+Ecuador|ec.png
+Estonia|ee.png
+Egypt|eg.png
+Western Sahara|eh.png
+Eritrea|er.png
+Spain|es.png
+Ethiopia|et.png
+Finland|fi.png
+Fiji|fj.png
+Falkland Islands (Malvinas)|fk.png
+Micronesia, Federated States of|fm.png
+Faroe Islands|fo.png
+France|fr.png
+Gabon|ga.png
+England|gb-eng.png
+Northern Ireland|gb-nir.png
+Scotland|gb-sct.png
+Wales|gb-wls.png
+United Kingdom|gb.png
+Grenada|gd.png
+Georgia|ge.png
+French Guiana|gf.png
+Guernsey|gg.png
+Ghana|gh.png
+Gibraltar|gi.png
+Greenland|gl.png
+Gambia|gm.png
+Guinea|gn.png
+Guadeloupe|gp.png
+Equatorial Guinea|gq.png
+Greece|gr.png
+South Georgia and the South Sandwich Islands|gs.png
+Guatemala|gt.png
+Guam|gu.png
+Guinea-Bissau|gw.png
+Guyana|gy.png
+Hong Kong, SAR China|hk.png
+Heard and Mcdonald Islands|hm.png
+Honduras|hn.png
+Croatia|hr.png
+Haiti|ht.png
+Hungary|hu.png
+Indonesia|id.png
+Ireland|ie.png
+Isle of Man|im.png
+India|in.png
+British Indian Ocean Territory|io.png
+Iraq|iq.png
+Iran, Islamic Republic of|ir.png
+Iceland|is.png
+Italy|it.png
+Jersey|je.png
+Jamaica|jm.png
+Jordan|jo.png
+Japan|jp.png
+Kenya|ke.png
+Kyrgyzstan|kg.png
+Cambodia|kh.png
+Kiribati|ki.png
+Comoros|km.png
+Saint Kitts and Nevis|kn.png
+Korea (North)|kp.png
+Korea (South)|kr.png
+Kuwait|kw.png
+Cayman Islands|ky.png
+Kazakhstan|kz.png
+Lao PDR|la.png
+Lebanon|lb.png
+Saint Lucia|lc.png
+Liechtenstein|li.png
+Sri Lanka|lk.png
+Liberia|lr.png
+Lesotho|ls.png
+Lithuania|lt.png
+Luxembourg|lu.png
+Latvia|lv.png
+Libya|ly.png
+Morocco|ma.png
+Monaco|mc.png
+Moldova|md.png
+Montenegro|me.png
+Saint-Martin (French part)|mf.png
+Madagascar|mg.png
+Marshall Islands|mh.png
+Macedonia, Republic of|mk.png
+Mali|ml.png
+Myanmar|mm.png
+Mongolia|mn.png
+Macao, SAR China|mo.png
+Northern Mariana Islands|mp.png
+Martinique|mq.png
+Mauritania|mr.png
+Montserrat|ms.png
+Malta|mt.png
+Mauritius|mu.png
+Maldives|mv.png
+Malawi|mw.png
+Mexico|mx.png
+Malaysia|my.png
+Mozambique|mz.png
+Namibia|na.png
+New Caledonia|nc.png
+Niger|ne.png
+Norfolk Island|nf.png
+Nigeria|ng.png
+Nicaragua|ni.png
+Netherlands|nl.png
+Norway|no.png
+Nepal|np.png
+Nauru|nr.png
+Niue|nu.png
+New Zealand|nz.png
+Oman|om.png
+Panama|pa.png
+Peru|pe.png
+French Polynesia|pf.png
+Papua New Guinea|pg.png
+Philippines|ph.png
+Pakistan|pk.png
+Poland|pl.png
+Saint Pierre and Miquelon|pm.png
+Pitcairn|pn.png
+Puerto Rico|pr.png
+Palestine|ps.png
+Portugal|pt.png
+Palau|pw.png
+Paraguay|py.png
+Qatar|qa.png
+Réunion|re.png
+Romania|ro.png
+Serbia|rs.png
+Russian Federation|ru.png
+Rwanda|rw.png
+Saudi Arabia|sa.png
+Solomon Islands|sb.png
+Seychelles|sc.png
+Sudan|sd.png
+Sweden|se.png
+Singapore|sg.png
+Saint Helena|sh.png
+Slovenia|si.png
+Svalbard and Jan Mayen Islands|sj.png
+Slovakia|sk.png
+Sierra Leone|sl.png
+San Marino|sm.png
+Senegal|sn.png
+Somalia|so.png
+Suriname|sr.png
+South Sudan|ss.png
+Sao Tome and Principe|st.png
+El Salvador|sv.png
+Sint Maarten|sx.png
+Syrian Arab Republic (Syria)|sy.png
+Swaziland|sz.png
+Turks and Caicos Islands|tc.png
+Chad|td.png
+French Southern Territories|tf.png
+Togo|tg.png
+Thailand|th.png
+Tajikistan|tj.png
+Tokelau|tk.png
+Timor-Leste|tl.png
+Turkmenistan|tm.png
+Tunisia|tn.png
+Tonga|to.png
+Turkey|tr.png
+Trinidad and Tobago|tt.png
+Tuvalu|tv.png
+Taiwan, Republic of China|tw.png
+Tanzania, United Republic of|tz.png
+Ukraine|ua.png
+Uganda|ug.png
+US Minor Outlying Islands|um.png
+United States of America|us.png
+Uruguay|uy.png
+Uzbekistan|uz.png
+Holy See (Vatican City State)|va.png
+Saint Vincent and Grenadines|vc.png
+Venezuela (Bolivarian Republic)|ve.png
+British Virgin Islands|vg.png
+Virgin Islands, US|vi.png
+Viet Nam|vn.png
+Vanuatu|vu.png
+Wallis and Futuna Islands|wf.png
+Samoa|ws.png
+Yemen|ye.png
+Mayotte|yt.png
+South Africa|za.png
+Zambia|zm.png
+Zimbabwe|zw.png
+the Caribbean Netherlands|bq.png
+Kosovo|xk.png

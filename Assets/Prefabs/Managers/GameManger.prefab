@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4127134688921078101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4127134688921078099}
+  - component: {fileID: 4127134688921078098}
+  m_Layer: 0
+  m_Name: GameManger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4127134688921078099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4127134688921078101}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4127134688921078098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4127134688921078101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04f1f659c777de64a95549e18037a9b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DestSlider: {fileID: 0}
+  MaxScore: 500
+  MaxHealth: 0
+  ScoreText: {fileID: 0}
+  PercentageText: {fileID: 0}
+  ScoreTime: 0.1
+  FuelBarUI: {fileID: 0}
+  FuelTime: 0.05
+  FuelDecreaseAmount: 0.2
+  AlienWarningSign: {fileID: 0}
+  Alien: {fileID: 5344091895894016061, guid: 5f9c5da2bd20c6d4bab1bff4b2371ddb, type: 3}
+  AmountOfAliensToSpawn: 3
+  DelayBetweenEachAlien: 1
+  AliensHealth: 10
+  AliensShootSpeed: 3
+  AliensSpeed: 2
+  GameOverScoreText: {fileID: 0}
+  WinScoreText: {fileID: 0}
+  Score: 0
+  Health: 3
+  IsGameOver: 0
+  IsFightingAliens: 0
+  HasWon: 0
+  BlackBox: {fileID: 0}
+  LandingScene: {fileID: 0}
+  Astronaut: {fileID: 0}
+  AstroVCam: {fileID: 0}
+  MainVCam: {fileID: 0}
+  Planet: 

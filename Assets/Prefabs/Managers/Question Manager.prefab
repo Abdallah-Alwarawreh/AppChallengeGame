@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2195160667136358902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2195160667136358903}
+  - component: {fileID: 2195160667136358896}
+  m_Layer: 0
+  m_Name: Question Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2195160667136358903
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2195160667136358902}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2195160667136358896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2195160667136358902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc837552f034a92a7ea9c427b3b72c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Questions:
+  - QuestionText: How many planets in our solar system?
+    Answers:
+    - 8
+    - 10
+    - 5
+    CorrectAnswer: 0
+  - QuestionText: What is the nearest planet to the sun?
+    Answers:
+    - Mercury
+    - Earth
+    - Venus
+    CorrectAnswer: 0
+  - QuestionText: What is the largest planet in our solar system?
+    Answers:
+    - Jupiter
+    - Saturn
+    - Mars
+    CorrectAnswer: 0
+  - QuestionText: What is the smallest plant in our solar system?
+    Answers:
+    - Mercury
+    - Uranus
+    - Venus
+    CorrectAnswer: 0
+  - QuestionText: 'Which planet is closest in size to Earth? '
+    Answers:
+    - Venus
+    - Mars
+    - Neptune
+    CorrectAnswer: 0
+  - QuestionText: "Which is the brightest planet in the night\u2019s sky?"
+    Answers:
+    - Venus
+    - Mercury
+    - Saturn
+    CorrectAnswer: 0
+  - QuestionText: Which planet has the most moons?
+    Answers:
+    - Saturn
+    - Uranus
+    - Neptune
+    CorrectAnswer: 0
+  - QuestionText: 'How long is one year on Jupiter? '
+    Answers:
+    - '12 Earth years '
+    - '1 Earth years '
+    - '50 Earth years '
+    CorrectAnswer: 0
+  - QuestionText: Which planet has the most volcanoes?
+    Answers:
+    - Venus
+    - Uranus
+    - Saturn
+    CorrectAnswer: 0
+  - QuestionText: In what year did Pluto become reclassified as a dwarf planet?
+    Answers:
+    - 2006
+    - 2000
+    - 1996
+    CorrectAnswer: 0
+  - QuestionText: 'How many Earths could fit inside the sun? '
+    Answers:
+    - '1 million '
+    - 10 million
+    - 50 thousand
+    CorrectAnswer: 0
+  - QuestionText: "What color is Mars\u2019 sunset?"
+    Answers:
+    - Blue
+    - Red
+    - Green
+    CorrectAnswer: 0
+  - QuestionText: What do you call a large group of stars, dust, and gas?
+    Answers:
+    - Galaxy
+    - Planet
+    - Solar System
+    CorrectAnswer: 0
+  - QuestionText: 'What is the third brightest celestial object in our sky? '
+    Answers:
+    - Venus
+    - Uranus
+    - Earth
+    CorrectAnswer: 0
+  - QuestionText: 'What are comets mostly made of? '
+    Answers:
+    - Snow, Ice, Dust
+    - Hot, liquid rock
+    - Rusty metal
+    CorrectAnswer: 0
+  - QuestionText: What is the sun mainly made from?
+    Answers:
+    - Gas
+    - Rock
+    - Liquid lava
+    CorrectAnswer: 0
+  - QuestionText: Where is the asteroid belt?
+    Answers:
+    - Between Earth and Mars
+    - Between Mars and Jupiter
+    - Between Jupiter and Saturn
+    CorrectAnswer: 0
+  - QuestionText: 'What is the Great Red Spot on Jupiter? '
+    Answers:
+    - A storm
+    - A volcano
+    - A crater
+    CorrectAnswer: 0
+  - QuestionText: 'How many moons does Mars have? '
+    Answers:
+    - 2
+    - 50
+    - 1
+    CorrectAnswer: 0
+  - QuestionText: 'How many moons does Jupiter have? '
+    Answers:
+    - 79 moons
+    - 50 moon
+    - 1 moon
+    CorrectAnswer: 0
+  Rewards:
+  - RewardText: 100 Fuel
+    RewardValue: 100
+    RewardType: 1
+  - RewardText: 50 Fuel
+    RewardValue: 50
+    RewardType: 1
+  - RewardText: 10 Fuel
+    RewardValue: 10
+    RewardType: 1
+  - RewardText: 30 Fuel
+    RewardValue: 30
+    RewardType: 1
+  - RewardText: 25 Fuel
+    RewardValue: 30
+    RewardType: 1
+  QuestionText: {fileID: 0}
+  RewardText: {fileID: 0}
+  AnswerButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  AnswerText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  CorrectColor: {r: 0.36277092, g: 0.8867924, b: 0.2300641, a: 1}
+  WrongColor: {r: 0.8862745, g: 0.32683703, b: 0.23137252, a: 1}
+  CancelButton: {fileID: 0}
+  IsQuestionActive: 0

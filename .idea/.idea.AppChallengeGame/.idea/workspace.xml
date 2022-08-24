@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14ce8e58-6d0f-4dde-9548-00020b386135" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/InputField.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2C7l7sN1c82ooICodIARvYTNhCS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14ce8e58-6d0f-4dde-9548-00020b386135" name="Changes" comment="" />
+      <created>1658161418296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658161418296</updated>
+      <workItem from="1658161418298" duration="26811000" />
+      <workItem from="1658297754565" duration="11228000" />
+      <workItem from="1658389606423" duration="3689000" />
+      <workItem from="1658411532971" duration="2866000" />
+      <workItem from="1658471494221" duration="16022000" />
+      <workItem from="1658653469863" duration="203000" />
+      <workItem from="1658933475170" duration="2852000" />
+      <workItem from="1659255797263" duration="3887000" />
+      <workItem from="1659416068118" duration="246000" />
+      <workItem from="1659416367996" duration="90000" />
+      <workItem from="1659441650028" duration="6810000" />
+      <workItem from="1659518701421" duration="4673000" />
+      <workItem from="1659765821019" duration="9684000" />
+      <workItem from="1659794992252" duration="3065000" />
+      <workItem from="1659892441444" duration="1381000" />
+      <workItem from="1659967825538" duration="2041000" />
+      <workItem from="1660044888833" duration="532000" />
+      <workItem from="1660045769882" duration="643000" />
+      <workItem from="1660122705337" duration="3179000" />
+      <workItem from="1660138625683" duration="2897000" />
+      <workItem from="1660205603680" duration="3246000" />
+      <workItem from="1660210772142" duration="1058000" />
+      <workItem from="1660211869122" duration="1558000" />
+      <workItem from="1660224633664" duration="879000" />
+      <workItem from="1660225558581" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

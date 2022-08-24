@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &81814823787546633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 81814823787546635}
+  - component: {fileID: 81814823787546632}
+  m_Layer: 0
+  m_Name: Sound Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &81814823787546635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81814823787546633}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &81814823787546632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81814823787546633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bfb2587b5ff42046b64dc81d9e3f061, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Mixer: {fileID: 24100000, guid: 3c50afb7fa158ad4bbe2bfa329af5af6, type: 2}
+  SFX: {fileID: -4332511168885629805, guid: 3c50afb7fa158ad4bbe2bfa329af5af6, type: 2}
+  Music: {fileID: -3100822045279486443, guid: 3c50afb7fa158ad4bbe2bfa329af5af6, type: 2}
+  Expolsions:
+    clips:
+    - {fileID: 8300000, guid: a0acf8ad933fe644c945a843bf21d6fa, type: 3}
+    - {fileID: 8300000, guid: 584ff9ae694c92b43afccbe0a5e87e7a, type: 3}
+    - {fileID: 8300000, guid: 11be9c394cccdd4439207a619d2714c2, type: 3}
+    - {fileID: 8300000, guid: ca7f55909b89ad745b48f45156d2e37d, type: 3}
+    - {fileID: 8300000, guid: 351b2899ed74e404a8cdaccec0ed3a49, type: 3}
+  Clicks:
+    clips:
+    - {fileID: 8300000, guid: d99bd603e1035e64dad6c74e76e71b94, type: 3}
+  Lasers:
+    clips:
+    - {fileID: 8300000, guid: 559eb8cc006233a4da33489db037c2da, type: 3}
+    - {fileID: 8300000, guid: 3e8bff48aa42ec44e921b897bf410976, type: 3}
+    - {fileID: 8300000, guid: a9e80098ab7b86d439ff0bec7ed8b6e6, type: 3}
+    - {fileID: 8300000, guid: d5ad9c441d8096c4db1f3920562081ba, type: 3}
+    - {fileID: 8300000, guid: 28ae49815ebdf6f4a8fb9b46bd5a0ba3, type: 3}
+  QuestionBlocks:
+    clips:
+    - {fileID: 8300000, guid: 268ce829a798a734d913d8b1da52dc1b, type: 3}
+    - {fileID: 8300000, guid: 14d04a308b3f1c042a6fe217a84a9032, type: 3}
+    - {fileID: 8300000, guid: 3990290c20092eb4d97ad22b70f1256e, type: 3}
+    - {fileID: 8300000, guid: 6bfcd134c4763624b8b6bf77ea7fe3cc, type: 3}
+  Selects:
+    clips:
+    - {fileID: 8300000, guid: 5353439e97068a54bb727369cc9a9c46, type: 3}
+    - {fileID: 8300000, guid: 56d843d43f7bacf4ba4f79c002fa2967, type: 3}
+  Shoots:
+    clips:
+    - {fileID: 8300000, guid: a727b326880e5ca47a4eef4bbca5de39, type: 3}
+    - {fileID: 8300000, guid: 4af51b3da0206374881bcc681caa5923, type: 3}
+  PlateImpacts:
+    clips:
+    - {fileID: 8300000, guid: 61ac502e0e2108545838091c5bd9b91f, type: 3}
+    - {fileID: 8300000, guid: 011eaf30994142147b151c49e7e05981, type: 3}
+    - {fileID: 8300000, guid: 80f428b1a0c47c848a86567317d6c595, type: 3}
+    - {fileID: 8300000, guid: 1ebd5ba991bd4f5488edbcfcd1d5b2f5, type: 3}
+    - {fileID: 8300000, guid: 547e91e6233f7f349a4788e1f342a9ab, type: 3}
+  FootSteps:
+    clips:
+    - {fileID: 8300000, guid: 28d2339186bc1ee45a7176f2af5356cf, type: 3}
+    - {fileID: 8300000, guid: 88f8ac232aedbed408753bd9d3f4f8cf, type: 3}
+    - {fileID: 8300000, guid: 7de84f57b16f12540bd32c8ac3387de4, type: 3}
+    - {fileID: 8300000, guid: 4ee98d5c4237e1c4db08de4037b1e86b, type: 3}
+    - {fileID: 8300000, guid: 8edaea01e23ca674f99b7e82e2bda71f, type: 3}
+  PlaceFlags:
+    clips:
+    - {fileID: 8300000, guid: c2ad788feac22a54ca863c9ad97ddf28, type: 3}
+    - {fileID: 8300000, guid: 4ad1c29e2420f3147b18f2bb793f1811, type: 3}
+    - {fileID: 8300000, guid: 8b38afa9000753748aa67b0ba7accbfc, type: 3}
+    - {fileID: 8300000, guid: 8dcb31eadd4397345af53d65ed236660, type: 3}
+    - {fileID: 8300000, guid: 3d07d175870a823498b8fa82f4498a75, type: 3}
+  VoiceOvers:
+    VoiceOvers:
+    - name: 1
+      clip: {fileID: 8300000, guid: eda80e6c9c0340b4ca168a22f057ff0b, type: 3}
+    - name: 2
+      clip: {fileID: 8300000, guid: d9e9bf20efd593548836b29ae0bc84cf, type: 3}
+    - name: 3
+      clip: {fileID: 8300000, guid: 635181910c7775c4bb75b6640ae3e429, type: 3}
+    - name: 4
+      clip: {fileID: 8300000, guid: e27af758e4a554f4fbf5b04f31dbf421, type: 3}
+    - name: 5
+      clip: {fileID: 8300000, guid: 61ac11881ac8b9943888f18035c2795c, type: 3}
+    - name: Correct
+      clip: {fileID: 8300000, guid: 68d2fb75d61793048b3dd50c2dc7bfa2, type: 3}
+    - name: Wrong
+      clip: {fileID: 8300000, guid: 3b3017ff532477342ad1af0a2a6b9b8d, type: 3}
+    - name: MissionComplete
+      clip: {fileID: 8300000, guid: 183e1858eff2dfe47a271191c3eaa862, type: 3}
+    - name: MissionFailed
+      clip: {fileID: 8300000, guid: 6d0a3218b5b453a479888c8c18374bb4, type: 3}
+  TakeOffAudio: {fileID: 8300000, guid: f0e0ea4cba395684f94c3c203321837d, type: 3}
+  ZapAudio: {fileID: 8300000, guid: 5b19d38bfd79a0946a469ca9c67985fb, type: 3}
+  FuelPickupAudio: {fileID: 8300000, guid: 30a2ba6ff396da8478c099d6134867c4, type: 3}
+  WarningAudio: {fileID: 8300000, guid: 464a09bd54becd1439513c727435bbe5, type: 3}
+  ShootVolume: 0.3

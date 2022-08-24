@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4537738259628601829
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4537738259628601828}
+  - component: {fileID: 4537738259628601835}
+  m_Layer: 0
+  m_Name: Spawner Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4537738259628601828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4537738259628601829}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4537738259628601835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4537738259628601829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a42dac2cdf147f44a19673c78de6905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpawnersPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  Spawnables:
+  - name: Hot air balloon
+    prefab: {fileID: 1896676055341332675, guid: aaf16ec51decf4646b09bf51d5722090,
+      type: 3}
+    spawnChance: 70
+    MinScoreToSpawn: 0
+    weight: 0
+  SpawnablesWithTimers:
+  - name: Fuel Can
+    prefab: {fileID: 2044168874479493965, guid: 1c320176ddc151e478c20fa9cf416bf5,
+      type: 3}
+    SpawnInterval: 5
+  SpawnInterval: 1
+  DecreaseSpawnIntervalBy: 0.1
+  AmountOfTimeToDecreaseSpawnInterval: 20
+  MinSpawnInterval: 0.3
+  IncreaseTimeScaleBy: 0.1
+  AmountOfTimeToIncreaseTimeScale: 20
+  MaxTimeScale: 2
+  QuestionBlockPrefab: {fileID: 1618800009233031136, guid: 051fe255cbd2370438213d0d3968c7f1,
+    type: 3}
+  QuestionBlockSpawnChance: 15
+  StopSpawningFor: 3
+  StopSpawning: 0
